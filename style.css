@@ -1,0 +1,109 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-color {
+
+    color: orange;
+}
+
+
+.first-donate-Section {
+    background-image: url(images/sohel2.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    font-weight: 700;
+}
+
+.text-mid-control {
+    font-size: 20px;
+    color: white;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.text-control {
+
+    text-align: center;
+    padding-top: 15%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 700;
+}
+
+.margin-control {
+
+    margin-left: 45%;
+}
+
+.flexable-container {
+
+    display: flex;
+    margin-bottom: 100px;
+    height: 150px;
+}
+
+.trio-box {
+    margin-right: 9%;
+    margin-left: 7%;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    margin-top: 3%;
+    width: 90%;
+    height: 70px;
+    box-shadow: 10px 20px 40px rgb(63, 56, 56);
+
+
+
+}
+
+.trio-box h2 {
+
+    padding-top: 15%;
+}
+
+.parent-box {
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 10px;
+
+
+}
+
+.text-area {
+
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+#second-box {
+
+    border: 2px solid rgb(30, 255, 0);
+    background-image: linear-gradient(red, orange);
+}
