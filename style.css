@@ -15,7 +15,7 @@ body {
 
 
 .first-donate-Section {
-    background-image: url(images/sohel2.jpg);
+    background-image: url(images/cli12.png);
     background-repeat: no-repeat;
     height: 700px;
     width: 100%;
@@ -232,4 +232,10 @@ h1 {
     height: 200px;
     background-image: linear-gradient(orange, red);
     padding-top: 3%;
+}
+
+.set-images {
+
+    margin-left: 40%;
+    width: 20%;
 }
